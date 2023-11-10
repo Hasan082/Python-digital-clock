@@ -51,7 +51,3 @@ This is a simple digital clock implemented in Python using the Tkinter library.
 ## License
 
 This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
-
----
-
-Feel free to customize the README file further based on your project structure and additional details you want to include.
